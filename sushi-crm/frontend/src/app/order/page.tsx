@@ -150,7 +150,7 @@ export default function OrderPage() {
               type="text"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              placeholder=" Mahsulot qidirish..."
+              placeholder="🔍 Mahsulot qidirish..."
               className="w-full bg-zinc-800 text-white rounded-lg px-4 py-2.5 text-sm border border-zinc-700 focus:border-orange-500 focus:outline-none"
             />
           </div>
